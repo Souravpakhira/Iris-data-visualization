@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.graph_objs as go
 
 app = dash.Dash()
-
+server = app.server
 # loading the dataset
 df = pd.read_csv('./iris.csv')
 
