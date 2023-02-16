@@ -4,4 +4,4 @@ dash-core-components==1.8.1
 dash-html-components==1.0.2
 dash==1.9.1
 gunicorn==19.9.0
-Werkzeug==1.0.0
+Werkzeug==2.2.3
